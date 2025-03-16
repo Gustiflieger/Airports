@@ -20,7 +20,7 @@ diversionaltitude = 10000
 handoff =
 	340, Langen Radar, langen radar, 127.625
 	260, Langen Radar, langen radar, 129.675
-	180, Langen Radar, langen radar, 129.355
+	180, Langen Radar, langen radar, 127.500
 	090, Langen Radar, langen radar, 125.200
 	030, Langen Radar, langen radar, 124.430
 
@@ -111,13 +111,13 @@ runways =
 	rwy18, 18, N50.0344, E8.52593, 179.8, 13123, 0, 0, 326
 
 entrypoints = 
-	310, rolis, 9000
+	310, rolis, 10000
 	40, kerax, 10000
 	070, kerax
 	090, spesa, 9000
 	120, spesa, 10000
 	160, spesa
-	280, ramob, 8000
+	280, ramob, 11000
 
 airlines =
 	AAL, 3, 	A332/B788/B789/b772, American, nw
